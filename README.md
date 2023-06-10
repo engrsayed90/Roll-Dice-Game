@@ -1,5 +1,5 @@
 # Roll-Dice-Game
-Rolling a dice game, where need two players to play or just against yourself for fun.
+This is  Rolling dice game project, where need two players to play or just against yourself for fun.
 
 This project using HTML, CSS and Javascript.
 
